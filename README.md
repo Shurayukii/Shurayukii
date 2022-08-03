@@ -1,10 +1,11 @@
-#  Welcome
+##  Welcome
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurayukii&layout=compact&theme=dark" />
 
+##  Projects
 
-<details>
-  <summary>Secrets Don't Click</summary>
-  
-  <img src="/mick_rory.webp" />
-</details>
+### Simplicity Discord Theme
+
+<a href="https://github.com/Shurayukii/Simplicity">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Shurayukii&repo=Simplicity&theme=dark" />
+</a>

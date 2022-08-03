@@ -1,11 +1,7 @@
-##  Welcome
+##  *this idiot brain only knows 2 languages lol*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shurayukii&theme=radical)](https://github.com/Shurayukii/Simplicity)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurayukii&layout=compact&theme=dark" />
+![Shurayukii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shurayukii&hide=contribs,prs,stars&theme=radical)
 
 ##  Projects
-
-### Simplicity Discord Theme
-
-<a href="https://github.com/Shurayukii/Simplicity">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Shurayukii&repo=Simplicity&theme=dark" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Shurayukii&repo=Simplicity&theme=radical)](https://github.com/Shurayukii/Simplicity)

@@ -7,7 +7,7 @@
     </a>
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
-    <a href="https://github.com/CreArts-Community/CreArts-Discord">
+    <a href="https://github.com/Shurayukii/Simplicity">
       <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=Shurayukii&repo=Simplicity&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
 <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Top Langs) -->

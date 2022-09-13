@@ -12,4 +12,4 @@
 <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Top Langs) -->
   <a href="https://github.com/Shurayukii">
-    <img width=420vw align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurayukii&theme=dark&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&layout=compact">
+    <img width=420vw align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurayukii&theme=dark&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12">
